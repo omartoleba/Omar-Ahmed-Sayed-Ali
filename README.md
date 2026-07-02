@@ -13,7 +13,7 @@ Communication Engineering student with practical experience in embedded systems,
 - C++
 - Python
 
-### 🔌 Electronics
+###  Electronics
 - AVR Microcontrollers
 - ESP32-S3
 - Sensor Interfacing
@@ -23,7 +23,7 @@ Communication Engineering student with practical experience in embedded systems,
 - Bluetooth
 - Wi-Fi
 
-### 🖥️ Software & Tools
+###  Software & Tools
 - Simulink
 - MATLAB
 - Git
@@ -31,7 +31,7 @@ Communication Engineering student with practical experience in embedded systems,
 - Visual Studio Code
 - Proteus
 
-### 🤝 Soft Skills
+###  Soft Skills
 - Leadership
 - Teamwork
 - Communication
