@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
-<h3 align="center">Communication Engineering Student | Embedded Systems Developer | IoT Enthusiast</h3>
+<h3 align="center">Communication Engineering Student | Embedded Systems Developer | IoT</h3>
 
 📍Bani Suef University, Egypt   |   📧omartoleba04@gmail.com   |  📞 01141920058   |   💼 https://www.linkedin.com/in/omar-ahmed-959189308    
 
