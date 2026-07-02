@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
+<h3 align="center">Communication Engineering Student | Embedded Systems Developer | IoT Enthusiast</h3>
+
 # Omar-Ahmed-Sayed-Ali
 Electronics &amp; Communications Engineering Student | Embedded Systems Developer
 
